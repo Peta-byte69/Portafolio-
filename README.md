@@ -1,1 +1,2 @@
-# Portafolio-
+# Portafolio
+Me apasiona el mundo del desarrollo web y software, y estoy enfocado en expandir mis habilidades en estas áreas. En particular, estoy interesado en explorar lenguajes de programación multiparadigma, que combinan elementos de programación orientada a objetos, funcional y procedural. Mi objetivo es dominar tecnologías y herramientas que me permitan crear soluciones innovadoras y eficientes para diversos problemas.
